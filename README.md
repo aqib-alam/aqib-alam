@@ -1,7 +1,7 @@
-### Hi Developers 👋
+### Hello Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-Aqib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aqib-alam/)](https://www.linkedin.com/in/aqib-alam/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aqib-yellow)](https://stackoverflow.com/users/18909678/aqib)
 
 I am
 Junior Fullstack Developer
